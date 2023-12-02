@@ -49,12 +49,16 @@ flutter run
 
 <img src="https://github.com/japnitahuja/flutter-twitter-clone/assets/10168783/dddf9ec4-4626-4327-a3e7-41205535dd3f" width="30%" />
 
-#### Bookmarking a tweet
+### Bookmarking a tweet
 
 [bookmarking.webm](https://github.com/japnitahuja/flutter-twitter-clone/assets/10168783/88b748c2-7c08-46c2-b855-d1d2adbf5149)
 
-#### Searching through tweets
+### Searching through tweets
 
 [searching.webm](https://github.com/japnitahuja/flutter-twitter-clone/assets/10168783/bcadc1a7-5fc6-4d1c-809e-cd9d69482fd6)
 
-#### Data persistance through SQLite
+### Data persistance through SQLite
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/japnitahuja/flutter-twitter-clone/blob/main/LICENSE) file for details.
