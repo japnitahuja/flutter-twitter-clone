@@ -23,3 +23,12 @@ flutter pub get
 ```
 flutter run
 ```
+
+# Features Implemented
+
+1. Tweet Creation
+2. Liking and retweeting
+3. Replying to a tweet
+4. Bookmarking a tweet
+5. Searching through tweets
+6. Data persistance through SQLite
